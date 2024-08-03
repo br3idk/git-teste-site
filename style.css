@@ -1,3 +1,10 @@
 body {
-    background: wheat;
+    text-align: center;
+    background: #1e2124;
+    color: 	white;
+}
+
+p {
+    text-align: center;
+    font: 16px Arial;
 }
