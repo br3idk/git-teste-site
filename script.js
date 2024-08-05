@@ -1,3 +1,3 @@
-function clique() {
-    window.alert("sera q lembro ainda? O_O");
+function logar() {//implementar lógica do login
+    window.alert("Logado com sucesso!");
 };
