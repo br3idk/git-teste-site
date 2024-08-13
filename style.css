@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background: #1e2124;
+    background: #1d3145;
     font-family: Arial, Helvetica, sans-serif;
     justify-content: center;
     align-items: center;
@@ -14,7 +14,7 @@ p {
 }
 
 div {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding: 20px;
     margin: 20px;
     width: 200px;
